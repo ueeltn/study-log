@@ -20,5 +20,8 @@ public  class Main {
                 """ + anoDeLancamento;
         System.out.println(sinpose); //forma de comentar
 
+        int classificacao = (int) (media/2);
+        System.out.println(classificacao);
+
     }
 }
