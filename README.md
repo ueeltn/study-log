@@ -17,7 +17,13 @@ Exercícios e anotações de estudos
    2. Aprendi o sobre o uso do for e do while, além do if e else.
    3. Comecei a capturar informações, armazenar elas nas variáveis e usar elas para decisões.
 
+3\. 17/11 - Comecei o projeto Screan Match para aprender a usar Orientação a Objeto.
 
+\# Aprendi sobre classes e seus atributos e comecei a entender sobre o métodos.
+
+\# Além disso, aprendi como instanciar uma classe, assim podendo representar informações na aplicação. 
+
+\# Uma classe é uma estrutura que define um tipo de objeto. Ela é como um molde que define quais são as características (atributos) e comportamentos (métodos) que um objeto desse tipo vai possuir. 
 
 
 
