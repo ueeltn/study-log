@@ -21,13 +21,17 @@ Exercícios e anotações de estudos
 
 \# Aprendi sobre classes e seus atributos e comecei a entender sobre o métodos.
 
-\# Além disso, aprendi como instanciar uma classe, assim podendo representar informações na aplicação. 
+\# Além disso, aprendi como instanciar uma classe, assim podendo representar informações na aplicação.
 
-\# Uma classe é uma estrutura que define um tipo de objeto. Ela é como um molde que define quais são as características (atributos) e comportamentos (métodos) que um objeto desse tipo vai possuir. 
-
-
+\# Uma classe é uma estrutura que define um tipo de objeto. Ela é como um molde que define quais são as características (atributos) e comportamentos (métodos) que um objeto desse tipo vai possuir.
 
 
+
+4\. 18/11 - Aprendi mais sobre encapsulamento e sobre modificadores de acesso.
+
+\# Aprendi e fiz uso de Get e Set.
+
+\# Criei e entendi mais sobre o uso de Package.
 
 
 
