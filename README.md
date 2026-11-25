@@ -35,5 +35,17 @@ Exercícios e anotações de estudos
 
 
 
+5\. 25/11 - Após passar uns dias sem conseguir estudar, voltei e foi muito proveitoso.
+
+\# Aprendi sobre SuperClass, Classe mãe ( Generalização) e Classe filha (Especializada).
+
+\# Entendi sobre como funciona e realiza a sobrescrita de um método.
+
+\# Por fim, coloquei em prática o conceito de polimorfismo para evitar duplicar código. 
+
+
+
+
+
 \*IA\*
 
