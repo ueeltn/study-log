@@ -38,8 +38,11 @@ Exercícios e anotações de estudos
    3. Por fim, coloquei em prática o conceito de polimorfismo para evitar duplicar código. 
 
 
+6\. **26/11 - Hoje o estudos foi bem puxado. Me senti um pouco burro por não ter entendido muita coisa.**
 
-
+   1. Tive o primeiro contato com o conceito de Interface. 
+   2. Ainda não entendi direito para o que ela serve.
+   3. Contudo, entendi que como uma Classe não pode herdar de mais de uma classe, o uso da Interface se faz necessário.
 
 ## IA
 
