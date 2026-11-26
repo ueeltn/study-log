@@ -43,6 +43,7 @@ Exercícios e anotações de estudos
    1. Tive o primeiro contato com o conceito de Interface. 
    2. Ainda não entendi direito para o que ela serve.
    3. Contudo, entendi que como uma Classe não pode herdar de mais de uma classe, o uso da Interface se faz necessário.
+      Li mais um pouco e aprendi que numa interface todos os métodos são públicos, não sendo então necessário utilizar a palavra reservada public na declaração deles e que também é possível aplicar o polimorfismo com o uso de interfaces, similar ao que foi demonstrado com a utilização da herança em aulas anteriores.
 
 ## IA
 
